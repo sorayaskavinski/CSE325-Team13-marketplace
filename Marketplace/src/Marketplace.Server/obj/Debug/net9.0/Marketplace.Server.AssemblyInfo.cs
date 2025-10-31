@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Marketplace.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40add7c57ebddda8638b8f02ee3a4e5334c29db3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f6c24e3528d10cd9e9ddb4cfaa9bf334e2df32e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marketplace.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marketplace.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
