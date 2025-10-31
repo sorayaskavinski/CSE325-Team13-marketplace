@@ -8,7 +8,7 @@
 **## Important Links**
 - Github Rep: https://github.com/sorayaskavinski/CSE325-Team13-marketplace 
 - Trello: https://trello.com/b/MO5Wyktc/cse325-team13-marketplace
--
+- Render? Azure? : 
 - YoutuBe:
   
 ## Overview
