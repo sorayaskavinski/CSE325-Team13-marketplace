@@ -7,7 +7,8 @@
 
 **## Important Links**
 - Github Rep: https://github.com/sorayaskavinski/CSE325-Team13-marketplace 
-- Trello:
+- Trello: https://trello.com/b/MO5Wyktc/cse325-team13-marketplace
+-
 - YoutuBe:
   
 ## Overview

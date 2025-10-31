@@ -1,0 +1,12 @@
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\bin\Debug\net9.0\Marketplace.Shared.deps.json
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\bin\Debug\net9.0\Marketplace.Shared.dll
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\bin\Debug\net9.0\Marketplace.Shared.pdb
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\obj\Debug\net9.0\Marketplace.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\obj\Debug\net9.0\Marketplace.Shared.AssemblyInfoInputs.cache
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\obj\Debug\net9.0\Marketplace.Shared.AssemblyInfo.cs
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\obj\Debug\net9.0\Marketplace.Shared.csproj.CoreCompileInputs.cache
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\obj\Debug\net9.0\Marketplace.Shared.sourcelink.json
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\obj\Debug\net9.0\Marketplace.Shared.dll
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\obj\Debug\net9.0\refint\Marketplace.Shared.dll
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\obj\Debug\net9.0\Marketplace.Shared.pdb
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Shared\obj\Debug\net9.0\ref\Marketplace.Shared.dll
