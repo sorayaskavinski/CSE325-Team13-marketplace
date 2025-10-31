@@ -1,0 +1,8 @@
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Client\obj\Debug\net9.0\Marketplace.Client.csproj.AssemblyReference.cache
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Client\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Client\obj\Debug\net9.0\Marketplace.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Client\obj\Debug\net9.0\Marketplace.Client.AssemblyInfoInputs.cache
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Client\obj\Debug\net9.0\Marketplace.Client.AssemblyInfo.cs
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Client\obj\Debug\net9.0\Marketplace.Client.csproj.CoreCompileInputs.cache
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Client\obj\Debug\net9.0\Marketplace.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samba\CSE325-Team13-marketplace\Marketplace\src\Marketplace.Client\obj\Debug\net9.0\Marketplace.Client.sourcelink.json
