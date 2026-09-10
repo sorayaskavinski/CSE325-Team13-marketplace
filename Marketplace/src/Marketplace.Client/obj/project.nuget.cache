@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "v5uFm+3CGJs=",
+  "dgSpecHash": "4TGThF/UEKo=",
   "success": true,
   "projectFilePath": "C:\\Users\\samba\\CSE325-Team13-marketplace\\Marketplace\\src\\Marketplace.Client\\Marketplace.Client.csproj",
   "expectedPackageFiles": [
@@ -28,9 +28,12 @@
     "C:\\Users\\samba\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.10\\microsoft.extensions.primitives.9.0.10.nupkg.sha512",
     "C:\\Users\\samba\\.nuget\\packages\\microsoft.jsinterop\\9.0.10\\microsoft.jsinterop.9.0.10.nupkg.sha512",
     "C:\\Users\\samba\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.10\\microsoft.jsinterop.webassembly.9.0.10.nupkg.sha512",
-    "C:\\Users\\samba\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.10\\microsoft.net.illink.tasks.9.0.10.nupkg.sha512",
-    "C:\\Users\\samba\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.10\\microsoft.net.sdk.webassembly.pack.9.0.10.nupkg.sha512",
-    "C:\\Users\\samba\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.10.nupkg.sha512"
+    "C:\\Users\\samba\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.19\\microsoft.net.illink.tasks.9.0.19.nupkg.sha512",
+    "C:\\Users\\samba\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.11\\microsoft.net.sdk.webassembly.pack.10.0.11.nupkg.sha512",
+    "C:\\Users\\samba\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.19\\microsoft.netcore.app.ref.9.0.19.nupkg.sha512",
+    "C:\\Users\\samba\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.19\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.19.nupkg.sha512",
+    "C:\\Users\\samba\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.19\\microsoft.windowsdesktop.app.ref.9.0.19.nupkg.sha512",
+    "C:\\Users\\samba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.19\\microsoft.aspnetcore.app.ref.9.0.19.nupkg.sha512"
   ],
   "logs": []
 }

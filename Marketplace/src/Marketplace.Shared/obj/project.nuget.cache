@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IggLOGDO0I4=",
+  "dgSpecHash": "NWUuZdbYZUc=",
   "success": true,
   "projectFilePath": "C:\\Users\\samba\\CSE325-Team13-marketplace\\Marketplace\\src\\Marketplace.Shared\\Marketplace.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\samba\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.19\\microsoft.netcore.app.ref.9.0.19.nupkg.sha512",
+    "C:\\Users\\samba\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.19\\microsoft.windowsdesktop.app.ref.9.0.19.nupkg.sha512",
+    "C:\\Users\\samba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.19\\microsoft.aspnetcore.app.ref.9.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
